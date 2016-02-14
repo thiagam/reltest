@@ -3,7 +3,7 @@
 
   <groupId>net.chettiar</groupId>
   <artifactId>tools-agency</artifactId>
-  <version>1.3-SNAPSHOT</version>
+  <version>1.3</version>
   <packaging>jar</packaging>
 
   <name>tools-agency</name>
