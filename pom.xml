@@ -3,7 +3,7 @@
 
   <groupId>net.chettiar</groupId>
   <artifactId>tools-agency</artifactId>
-  <version>1.2-SNAPSHOT</version>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
   <name>tools-agency</name>
@@ -13,7 +13,7 @@
 		<url>https://github.com/thiagam/reltest</url>
 		<connection>scm:git:git://github.com/thiagam/reltest.git</connection>
 		<developerConnection>scm:git:git@github.com:thiagam/reltest.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>tools-agency-1.2</tag>
   </scm>
 
   <properties>
